@@ -1,0 +1,17 @@
+---
+title: "Quiz_3_Study_Guide"
+author: "Morgan Walsh"
+date: "2026-10-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r}
+
+```
+
